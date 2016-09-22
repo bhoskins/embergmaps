@@ -1,0 +1,13 @@
+@import "bower_components/bourbon/app/assets/stylesheets/bourbon";
+@import "bower_components/neat/app/assets/stylesheets/neat";
+
+nav li {
+  display: inline-block;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+.ember-cli-g-map {
+  height: 500px;
+  width: 1000px;
+}
